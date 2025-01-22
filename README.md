@@ -45,7 +45,7 @@ This space is a reflection of my journey in coding, creativity, and exploration.
 ## 📫 **Connect with Me**  
 - 💼 [LinkedIn](#)  
 - 🐦 [Twitter](#)  
-- ✉️ Email: your_email@example.com  
+- ✉️ Email: stone.mind.man.2023@example.com  
 
 ---  
 
